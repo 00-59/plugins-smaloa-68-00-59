@@ -13,8 +13,7 @@ Visit the examples and details [here](https://68.00-59.com/en/smaloa).
 
 Examples with jsdelivr:
 - specific version: https://cdn.jsdelivr.net/gh/00-59/plugins-smaloa-68-00-59@4.1.2.1/plugins/minilight/minilight.js
-- latest version: https://cdn.jsdelivr.net/gh/00-59/plugins-smaloa-68-00-59@4.1.2.1/plugins/minilight/minilight.js
-- latest minified version: https://cdn.jsdelivr.net/gh/00-59/plugins-smaloa-68-00-59/plugins/minilight/minilight.min.js
+- minified version: https://cdn.jsdelivr.net/gh/00-59/plugins-smaloa-68-00-59@4.1.2.1/plugins/minilight/minilight.min.js
 
 
 ## Plugins
