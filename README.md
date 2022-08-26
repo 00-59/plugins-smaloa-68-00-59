@@ -1,3 +1,4 @@
+![plugins-smaloa-68-00-59](https://images.pexels.com/photos/1111318/pexels-photo-1111318.jpeg?cs=srgb&dl=design-dreieck-entwurf-etikett-1111318.jpg&fm=jpg)
 # plugins-smaloa-68-00-59
 
 Plugins for [**smaloa**](https://68.00-59.com/en/smaloa) JS library.
